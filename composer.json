@@ -138,6 +138,7 @@
         "fuelphp/upload": "2.0.1",
         "monolog/monolog": "1.5.*",
         "smarty/smarty": "3.*",
+        "fabpot/goutte": "*",
         "michelf/php-markdown": "1.4.0"
     },
     "suggest": {
